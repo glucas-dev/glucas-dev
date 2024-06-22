@@ -1,4 +1,4 @@
-### Um Dev em construção 😁
+### Um Dev em construção!
 
  <div>
    <a href="https://github.com/glucas-dev">
